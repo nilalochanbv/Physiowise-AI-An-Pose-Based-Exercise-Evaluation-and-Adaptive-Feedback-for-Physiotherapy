@@ -1,0 +1,32 @@
+{
+  "elbow_flexion": {
+    "stage_1": { "min": 30, "max": 60 },
+    "stage_2": { "min": 61, "max": 100 },
+    "stage_3": { "min": 101, "max": 145 }
+  },
+  "knee_extension": {
+    "stage_1": { "min": 150, "max": 160 },
+    "stage_2": { "min": 161, "max": 170 },
+    "stage_3": { "min": 171, "max": 180 }
+  },
+  "knee_flexion": {
+    "stage_1": { "min": 90, "max": 120 },
+    "stage_2": { "min": 60, "max": 89 },
+    "stage_3": { "min": 35, "max": 59 }
+  },
+  "squat": {
+    "stage_1": { "min": 140, "max": 170 },
+    "stage_2": { "min": 111, "max": 139 },
+    "stage_3": { "min": 80, "max": 110 }
+  },
+  "shoulder_raise": {
+    "stage_1": { "min": 60, "max": 95 },
+    "stage_2": { "min": 96, "max": 139 },
+    "stage_3": { "min": 140, "max": 180 }
+  },
+  "hip_abduction": {
+    "stage_1": { "min": 160, "max": 175 },
+    "stage_2": { "min": 145, "max": 159 },
+    "stage_3": { "min": 125, "max": 144 }
+  }
+}

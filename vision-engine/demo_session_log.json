@@ -1,0 +1,977 @@
+[
+  {
+    "timestamp": "2026-08-27T16:12:21.490668",
+    "exercise": "elbow_flexion",
+    "stage": 3,
+    "feedback": "Adjust your elbow angle to bring it closer to the target range.",
+    "verdict": 0,
+    "score": 60.7,
+    "target_range": [
+      101,
+      145
+    ],
+    "measured_angle": 171.4
+  },
+  {
+    "timestamp": "2026-08-27T16:12:22.088616",
+    "exercise": "elbow_flexion",
+    "stage": 3,
+    "feedback": "Adjust your elbow angle to bring it closer to the target range.",
+    "verdict": 0,
+    "score": 59.7,
+    "target_range": [
+      101,
+      145
+    ],
+    "measured_angle": 172.6
+  },
+  {
+    "timestamp": "2026-08-27T16:12:22.594248",
+    "exercise": "elbow_flexion",
+    "stage": 3,
+    "feedback": "Adjust your elbow angle to bring it closer to the target range.",
+    "verdict": 0,
+    "score": 60.1,
+    "target_range": [
+      101,
+      145
+    ],
+    "measured_angle": 172.0
+  },
+  {
+    "timestamp": "2026-08-27T16:12:23.103553",
+    "exercise": "elbow_flexion",
+    "stage": 3,
+    "feedback": "Adjust your elbow angle to bring it closer to the target range.",
+    "verdict": 0,
+    "score": 62.9,
+    "target_range": [
+      101,
+      145
+    ],
+    "measured_angle": 168.6
+  },
+  {
+    "timestamp": "2026-08-27T16:12:23.614769",
+    "exercise": "elbow_flexion",
+    "stage": 3,
+    "feedback": "Adjust your elbow angle to bring it closer to the target range.",
+    "verdict": 0,
+    "score": 66.3,
+    "target_range": [
+      101,
+      145
+    ],
+    "measured_angle": 164.4
+  },
+  {
+    "timestamp": "2026-08-27T16:12:24.127615",
+    "exercise": "elbow_flexion",
+    "stage": 3,
+    "feedback": "Adjust your elbow angle to bring it closer to the target range.",
+    "verdict": 0,
+    "score": 62.0,
+    "target_range": [
+      101,
+      145
+    ],
+    "measured_angle": 169.7
+  },
+  {
+    "timestamp": "2026-08-27T16:12:24.644026",
+    "exercise": "elbow_flexion",
+    "stage": 3,
+    "feedback": "Adjust your elbow angle to bring it closer to the target range.",
+    "verdict": 0,
+    "score": 66.3,
+    "target_range": [
+      101,
+      145
+    ],
+    "measured_angle": 164.5
+  },
+  {
+    "timestamp": "2026-08-27T16:12:25.187068",
+    "exercise": "elbow_flexion",
+    "stage": 3,
+    "feedback": "Adjust your elbow angle to bring it closer to the target range.",
+    "verdict": 0,
+    "score": 59.4,
+    "target_range": [
+      101,
+      145
+    ],
+    "measured_angle": 173.0
+  },
+  {
+    "timestamp": "2026-08-27T16:12:25.723982",
+    "exercise": "elbow_flexion",
+    "stage": 3,
+    "feedback": "Adjust your elbow angle to bring it closer to the target range.",
+    "verdict": 0,
+    "score": 61.7,
+    "target_range": [
+      101,
+      145
+    ],
+    "measured_angle": 170.1
+  },
+  {
+    "timestamp": "2026-08-27T16:12:26.250246",
+    "exercise": "elbow_flexion",
+    "stage": 3,
+    "feedback": "Adjust your elbow angle to bring it closer to the target range.",
+    "verdict": 0,
+    "score": 65.5,
+    "target_range": [
+      101,
+      145
+    ],
+    "measured_angle": 165.5
+  },
+  {
+    "timestamp": "2026-08-27T16:12:26.782605",
+    "exercise": "elbow_flexion",
+    "stage": 3,
+    "feedback": "Adjust your elbow angle to bring it closer to the target range.",
+    "verdict": 0,
+    "score": 63.0,
+    "target_range": [
+      101,
+      145
+    ],
+    "measured_angle": 168.6
+  },
+  {
+    "timestamp": "2026-08-27T16:12:27.286248",
+    "exercise": "elbow_flexion",
+    "stage": 3,
+    "feedback": "Adjust your elbow angle to bring it closer to the target range.",
+    "verdict": 0,
+    "score": 65.2,
+    "target_range": [
+      101,
+      145
+    ],
+    "measured_angle": 165.8
+  },
+  {
+    "timestamp": "2026-08-27T16:12:27.789775",
+    "exercise": "elbow_flexion",
+    "stage": 3,
+    "feedback": "Adjust your elbow angle to bring it closer to the target range.",
+    "verdict": 0,
+    "score": 63.9,
+    "target_range": [
+      101,
+      145
+    ],
+    "measured_angle": 167.4
+  },
+  {
+    "timestamp": "2026-08-27T16:12:28.314214",
+    "exercise": "elbow_flexion",
+    "stage": 3,
+    "feedback": "Adjust your elbow angle to bring it closer to the target range.",
+    "verdict": 0,
+    "score": 68.0,
+    "target_range": [
+      101,
+      145
+    ],
+    "measured_angle": 162.3
+  },
+  {
+    "timestamp": "2026-08-27T16:12:28.857422",
+    "exercise": "elbow_flexion",
+    "stage": 3,
+    "feedback": "Adjust your elbow angle to bring it closer to the target range.",
+    "verdict": 0,
+    "score": 66.6,
+    "target_range": [
+      101,
+      145
+    ],
+    "measured_angle": 164.1
+  },
+  {
+    "timestamp": "2026-08-27T16:12:29.380250",
+    "exercise": "elbow_flexion",
+    "stage": 3,
+    "feedback": "Adjust your elbow angle to bring it closer to the target range.",
+    "verdict": 0,
+    "score": 67.5,
+    "target_range": [
+      101,
+      145
+    ],
+    "measured_angle": 163.0
+  },
+  {
+    "timestamp": "2026-08-27T16:12:29.899432",
+    "exercise": "elbow_flexion",
+    "stage": 3,
+    "feedback": "Adjust your elbow angle to bring it closer to the target range.",
+    "verdict": 0,
+    "score": 69.2,
+    "target_range": [
+      101,
+      145
+    ],
+    "measured_angle": 160.8
+  },
+  {
+    "timestamp": "2026-08-27T16:12:30.413447",
+    "exercise": "elbow_flexion",
+    "stage": 3,
+    "feedback": "Adjust your elbow angle to bring it closer to the target range.",
+    "verdict": 0,
+    "score": 61.0,
+    "target_range": [
+      101,
+      145
+    ],
+    "measured_angle": 170.9
+  },
+  {
+    "timestamp": "2026-08-27T16:12:30.938146",
+    "exercise": "elbow_flexion",
+    "stage": 3,
+    "feedback": "Adjust your elbow angle to bring it closer to the target range.",
+    "verdict": 0,
+    "score": 68.2,
+    "target_range": [
+      101,
+      145
+    ],
+    "measured_angle": 162.1
+  },
+  {
+    "timestamp": "2026-08-27T16:12:31.479627",
+    "exercise": "elbow_flexion",
+    "stage": 3,
+    "feedback": "Adjust your elbow angle to bring it closer to the target range.",
+    "verdict": 0,
+    "score": 60.4,
+    "target_range": [
+      101,
+      145
+    ],
+    "measured_angle": 171.8
+  },
+  {
+    "timestamp": "2026-08-27T16:12:31.985375",
+    "exercise": "elbow_flexion",
+    "stage": 3,
+    "feedback": "Adjust your elbow angle to bring it closer to the target range.",
+    "verdict": 0,
+    "score": 65.5,
+    "target_range": [
+      101,
+      145
+    ],
+    "measured_angle": 165.4
+  },
+  {
+    "timestamp": "2026-08-27T16:12:32.506055",
+    "exercise": "elbow_flexion",
+    "stage": 3,
+    "feedback": "Adjust your elbow angle to bring it closer to the target range.",
+    "verdict": 0,
+    "score": 65.7,
+    "target_range": [
+      101,
+      145
+    ],
+    "measured_angle": 165.2
+  },
+  {
+    "timestamp": "2026-08-27T16:12:33.030195",
+    "exercise": "elbow_flexion",
+    "stage": 3,
+    "feedback": "Adjust your elbow angle to bring it closer to the target range.",
+    "verdict": 0,
+    "score": 69.8,
+    "target_range": [
+      101,
+      145
+    ],
+    "measured_angle": 160.1
+  },
+  {
+    "timestamp": "2026-08-27T16:12:33.553229",
+    "exercise": "elbow_flexion",
+    "stage": 3,
+    "feedback": "Adjust your elbow angle to bring it closer to the target range.",
+    "verdict": 0,
+    "score": 60.8,
+    "target_range": [
+      101,
+      145
+    ],
+    "measured_angle": 171.2
+  },
+  {
+    "timestamp": "2026-08-27T16:12:34.107307",
+    "exercise": "elbow_flexion",
+    "stage": 3,
+    "feedback": "Adjust your elbow angle to bring it closer to the target range.",
+    "verdict": 0,
+    "score": 78.0,
+    "target_range": [
+      101,
+      145
+    ],
+    "measured_angle": 150.0
+  },
+  {
+    "timestamp": "2026-08-27T16:12:34.614283",
+    "exercise": "elbow_flexion",
+    "stage": 3,
+    "feedback": "Adjust your elbow angle to bring it closer to the target range.",
+    "verdict": 0,
+    "score": 60.8,
+    "target_range": [
+      101,
+      145
+    ],
+    "measured_angle": 171.2
+  },
+  {
+    "timestamp": "2026-08-27T16:12:35.123645",
+    "exercise": "elbow_flexion",
+    "stage": 3,
+    "feedback": "Adjust your elbow angle to bring it closer to the target range.",
+    "verdict": 0,
+    "score": 55.9,
+    "target_range": [
+      101,
+      145
+    ],
+    "measured_angle": 177.2
+  },
+  {
+    "timestamp": "2026-08-27T16:12:35.670546",
+    "exercise": "elbow_flexion",
+    "stage": 3,
+    "feedback": "Adjust your elbow angle to bring it closer to the target range.",
+    "verdict": 0,
+    "score": 63.3,
+    "target_range": [
+      101,
+      145
+    ],
+    "measured_angle": 168.1
+  },
+  {
+    "timestamp": "2026-08-27T16:12:36.177203",
+    "exercise": "elbow_flexion",
+    "stage": 3,
+    "feedback": "Adjust your elbow angle to bring it closer to the target range.",
+    "verdict": 0,
+    "score": 66.0,
+    "target_range": [
+      101,
+      145
+    ],
+    "measured_angle": 164.8
+  },
+  {
+    "timestamp": "2026-08-27T16:12:36.706548",
+    "exercise": "elbow_flexion",
+    "stage": 3,
+    "feedback": "Adjust your elbow angle to bring it closer to the target range.",
+    "verdict": 0,
+    "score": 56.8,
+    "target_range": [
+      101,
+      145
+    ],
+    "measured_angle": 176.1
+  },
+  {
+    "timestamp": "2026-08-27T16:12:37.229367",
+    "exercise": "elbow_flexion",
+    "stage": 3,
+    "feedback": "Adjust your elbow angle to bring it closer to the target range.",
+    "verdict": 0,
+    "score": 68.1,
+    "target_range": [
+      101,
+      145
+    ],
+    "measured_angle": 162.2
+  },
+  {
+    "timestamp": "2026-08-27T16:12:37.733752",
+    "exercise": "elbow_flexion",
+    "stage": 3,
+    "feedback": "Adjust your elbow angle to bring it closer to the target range.",
+    "verdict": 0,
+    "score": 62.8,
+    "target_range": [
+      101,
+      145
+    ],
+    "measured_angle": 168.7
+  },
+  {
+    "timestamp": "2026-08-27T16:12:38.256205",
+    "exercise": "elbow_flexion",
+    "stage": 3,
+    "feedback": "Adjust your elbow angle to bring it closer to the target range.",
+    "verdict": 0,
+    "score": 57.1,
+    "target_range": [
+      101,
+      145
+    ],
+    "measured_angle": 175.8
+  },
+  {
+    "timestamp": "2026-08-27T16:12:38.758578",
+    "exercise": "elbow_flexion",
+    "stage": 3,
+    "feedback": "Good, your elbow flexion is within the target range.",
+    "verdict": 1,
+    "score": 88.5,
+    "target_range": [
+      101,
+      145
+    ],
+    "measured_angle": 108.8
+  },
+  {
+    "timestamp": "2026-08-27T16:12:39.264995",
+    "exercise": "elbow_flexion",
+    "stage": 3,
+    "feedback": "Adjust your elbow angle to bring it closer to the target range.",
+    "verdict": 0,
+    "score": 72.0,
+    "target_range": [
+      101,
+      145
+    ],
+    "measured_angle": 157.5
+  },
+  {
+    "timestamp": "2026-08-27T16:12:39.798806",
+    "exercise": "elbow_flexion",
+    "stage": 3,
+    "feedback": "Adjust your elbow angle to bring it closer to the target range.",
+    "verdict": 0,
+    "score": 66.5,
+    "target_range": [
+      101,
+      145
+    ],
+    "measured_angle": 164.2
+  },
+  {
+    "timestamp": "2026-08-27T16:12:40.323020",
+    "exercise": "elbow_flexion",
+    "stage": 3,
+    "feedback": "Adjust your elbow angle to bring it closer to the target range.",
+    "verdict": 0,
+    "score": 57.4,
+    "target_range": [
+      101,
+      145
+    ],
+    "measured_angle": 175.4
+  },
+  {
+    "timestamp": "2026-08-27T16:12:40.856014",
+    "exercise": "elbow_flexion",
+    "stage": 3,
+    "feedback": "Adjust your elbow angle to bring it closer to the target range.",
+    "verdict": 0,
+    "score": 65.9,
+    "target_range": [
+      101,
+      145
+    ],
+    "measured_angle": 165.0
+  },
+  {
+    "timestamp": "2026-08-27T16:12:41.424161",
+    "exercise": "elbow_flexion",
+    "stage": 3,
+    "feedback": "Adjust your elbow angle to bring it closer to the target range.",
+    "verdict": 0,
+    "score": 58.5,
+    "target_range": [
+      101,
+      145
+    ],
+    "measured_angle": 174.1
+  },
+  {
+    "timestamp": "2026-08-27T16:12:41.968177",
+    "exercise": "elbow_flexion",
+    "stage": 3,
+    "feedback": "Adjust your elbow angle to bring it closer to the target range.",
+    "verdict": 0,
+    "score": 61.7,
+    "target_range": [
+      101,
+      145
+    ],
+    "measured_angle": 170.1
+  },
+  {
+    "timestamp": "2026-08-27T16:12:42.500777",
+    "exercise": "elbow_flexion",
+    "stage": 3,
+    "feedback": "Adjust your elbow angle to bring it closer to the target range.",
+    "verdict": 0,
+    "score": 62.7,
+    "target_range": [
+      101,
+      145
+    ],
+    "measured_angle": 168.9
+  },
+  {
+    "timestamp": "2026-08-27T16:12:43.058173",
+    "exercise": "elbow_flexion",
+    "stage": 3,
+    "feedback": "Adjust your elbow angle to bring it closer to the target range.",
+    "verdict": 0,
+    "score": 63.3,
+    "target_range": [
+      101,
+      145
+    ],
+    "measured_angle": 168.2
+  },
+  {
+    "timestamp": "2026-08-27T16:12:43.595492",
+    "exercise": "elbow_flexion",
+    "stage": 3,
+    "feedback": "Adjust your elbow angle to bring it closer to the target range.",
+    "verdict": 0,
+    "score": 59.7,
+    "target_range": [
+      101,
+      145
+    ],
+    "measured_angle": 172.5
+  },
+  {
+    "timestamp": "2026-08-27T16:12:44.112745",
+    "exercise": "elbow_flexion",
+    "stage": 3,
+    "feedback": "Adjust your elbow angle to bring it closer to the target range.",
+    "verdict": 0,
+    "score": 59.0,
+    "target_range": [
+      101,
+      145
+    ],
+    "measured_angle": 173.5
+  },
+  {
+    "timestamp": "2026-08-27T16:12:44.614263",
+    "exercise": "elbow_flexion",
+    "stage": 3,
+    "feedback": "Adjust your elbow angle to bring it closer to the target range.",
+    "verdict": 0,
+    "score": 58.8,
+    "target_range": [
+      101,
+      145
+    ],
+    "measured_angle": 173.7
+  },
+  {
+    "timestamp": "2026-08-27T16:12:45.155383",
+    "exercise": "elbow_flexion",
+    "stage": 3,
+    "feedback": "Adjust your elbow angle to bring it closer to the target range.",
+    "verdict": 0,
+    "score": 61.2,
+    "target_range": [
+      101,
+      145
+    ],
+    "measured_angle": 170.8
+  },
+  {
+    "timestamp": "2026-08-27T16:12:45.705111",
+    "exercise": "elbow_flexion",
+    "stage": 3,
+    "feedback": "Adjust your elbow angle to bring it closer to the target range.",
+    "verdict": 0,
+    "score": 62.8,
+    "target_range": [
+      101,
+      145
+    ],
+    "measured_angle": 168.8
+  },
+  {
+    "timestamp": "2026-08-27T16:12:46.237923",
+    "exercise": "elbow_flexion",
+    "stage": 3,
+    "feedback": "Adjust your elbow angle to bring it closer to the target range.",
+    "verdict": 0,
+    "score": 65.3,
+    "target_range": [
+      101,
+      145
+    ],
+    "measured_angle": 165.6
+  },
+  {
+    "timestamp": "2026-08-27T16:12:46.773861",
+    "exercise": "elbow_flexion",
+    "stage": 3,
+    "feedback": "Adjust your elbow angle to bring it closer to the target range.",
+    "verdict": 0,
+    "score": 66.2,
+    "target_range": [
+      101,
+      145
+    ],
+    "measured_angle": 164.5
+  },
+  {
+    "timestamp": "2026-08-27T16:12:47.283136",
+    "exercise": "elbow_flexion",
+    "stage": 3,
+    "feedback": "Adjust your elbow angle to bring it closer to the target range.",
+    "verdict": 0,
+    "score": 64.8,
+    "target_range": [
+      101,
+      145
+    ],
+    "measured_angle": 166.3
+  },
+  {
+    "timestamp": "2026-08-27T16:12:47.812812",
+    "exercise": "elbow_flexion",
+    "stage": 3,
+    "feedback": "Adjust your elbow angle to bring it closer to the target range.",
+    "verdict": 0,
+    "score": 60.9,
+    "target_range": [
+      101,
+      145
+    ],
+    "measured_angle": 171.1
+  },
+  {
+    "timestamp": "2026-08-27T16:12:48.315681",
+    "exercise": "elbow_flexion",
+    "stage": 3,
+    "feedback": "Adjust your elbow angle to bring it closer to the target range.",
+    "verdict": 0,
+    "score": 67.0,
+    "target_range": [
+      101,
+      145
+    ],
+    "measured_angle": 163.6
+  },
+  {
+    "timestamp": "2026-08-27T16:12:48.840131",
+    "exercise": "elbow_flexion",
+    "stage": 3,
+    "feedback": "Adjust your elbow angle to bring it closer to the target range.",
+    "verdict": 0,
+    "score": 61.8,
+    "target_range": [
+      101,
+      145
+    ],
+    "measured_angle": 169.9
+  },
+  {
+    "timestamp": "2026-08-27T16:12:49.395325",
+    "exercise": "elbow_flexion",
+    "stage": 3,
+    "feedback": "Adjust your elbow angle to bring it closer to the target range.",
+    "verdict": 0,
+    "score": 64.3,
+    "target_range": [
+      101,
+      145
+    ],
+    "measured_angle": 166.9
+  },
+  {
+    "timestamp": "2026-08-27T16:12:49.920978",
+    "exercise": "elbow_flexion",
+    "stage": 3,
+    "feedback": "Adjust your elbow angle to bring it closer to the target range.",
+    "verdict": 0,
+    "score": 62.0,
+    "target_range": [
+      101,
+      145
+    ],
+    "measured_angle": 169.7
+  },
+  {
+    "timestamp": "2026-08-27T16:12:50.423830",
+    "exercise": "elbow_flexion",
+    "stage": 3,
+    "feedback": "Adjust your elbow angle to bring it closer to the target range.",
+    "verdict": 0,
+    "score": 56.8,
+    "target_range": [
+      101,
+      145
+    ],
+    "measured_angle": 176.1
+  },
+  {
+    "timestamp": "2026-08-27T16:12:50.961333",
+    "exercise": "elbow_flexion",
+    "stage": 3,
+    "feedback": "Adjust your elbow angle to bring it closer to the target range.",
+    "verdict": 0,
+    "score": 55.7,
+    "target_range": [
+      101,
+      145
+    ],
+    "measured_angle": 177.5
+  },
+  {
+    "timestamp": "2026-08-27T16:12:51.493313",
+    "exercise": "elbow_flexion",
+    "stage": 3,
+    "feedback": "Adjust your elbow angle to bring it closer to the target range.",
+    "verdict": 0,
+    "score": 58.3,
+    "target_range": [
+      101,
+      145
+    ],
+    "measured_angle": 174.3
+  },
+  {
+    "timestamp": "2026-08-27T16:12:52.004135",
+    "exercise": "elbow_flexion",
+    "stage": 3,
+    "feedback": "Adjust your elbow angle to bring it closer to the target range.",
+    "verdict": 0,
+    "score": 61.1,
+    "target_range": [
+      101,
+      145
+    ],
+    "measured_angle": 170.9
+  },
+  {
+    "timestamp": "2026-08-27T16:12:52.532896",
+    "exercise": "elbow_flexion",
+    "stage": 3,
+    "feedback": "Adjust your elbow angle to bring it closer to the target range.",
+    "verdict": 0,
+    "score": 64.2,
+    "target_range": [
+      101,
+      145
+    ],
+    "measured_angle": 167.1
+  },
+  {
+    "timestamp": "2026-08-27T16:12:53.053731",
+    "exercise": "elbow_flexion",
+    "stage": 3,
+    "feedback": "Adjust your elbow angle to bring it closer to the target range.",
+    "verdict": 0,
+    "score": 64.5,
+    "target_range": [
+      101,
+      145
+    ],
+    "measured_angle": 166.7
+  },
+  {
+    "timestamp": "2026-08-27T16:12:53.571590",
+    "exercise": "elbow_flexion",
+    "stage": 3,
+    "feedback": "Adjust your elbow angle to bring it closer to the target range.",
+    "verdict": 0,
+    "score": 61.7,
+    "target_range": [
+      101,
+      145
+    ],
+    "measured_angle": 75.8
+  },
+  {
+    "timestamp": "2026-08-27T16:12:54.079536",
+    "exercise": "elbow_flexion",
+    "stage": 3,
+    "feedback": "Adjust your elbow angle to bring it closer to the target range.",
+    "verdict": 0,
+    "score": 68.5,
+    "target_range": [
+      101,
+      145
+    ],
+    "measured_angle": 161.7
+  },
+  {
+    "timestamp": "2026-08-27T16:12:54.598749",
+    "exercise": "elbow_flexion",
+    "stage": 3,
+    "feedback": "Adjust your elbow angle to bring it closer to the target range.",
+    "verdict": 0,
+    "score": 60.3,
+    "target_range": [
+      101,
+      145
+    ],
+    "measured_angle": 171.8
+  },
+  {
+    "timestamp": "2026-08-27T16:12:55.143682",
+    "exercise": "elbow_flexion",
+    "stage": 3,
+    "feedback": "Adjust your elbow angle to bring it closer to the target range.",
+    "verdict": 0,
+    "score": 65.9,
+    "target_range": [
+      101,
+      145
+    ],
+    "measured_angle": 164.9
+  },
+  {
+    "timestamp": "2026-08-27T16:12:55.659831",
+    "exercise": "elbow_flexion",
+    "stage": 3,
+    "feedback": "Adjust your elbow angle to bring it closer to the target range.",
+    "verdict": 0,
+    "score": 63.0,
+    "target_range": [
+      101,
+      145
+    ],
+    "measured_angle": 168.5
+  },
+  {
+    "timestamp": "2026-08-27T16:12:56.211207",
+    "exercise": "elbow_flexion",
+    "stage": 3,
+    "feedback": "Adjust your elbow angle to bring it closer to the target range.",
+    "verdict": 0,
+    "score": 65.1,
+    "target_range": [
+      101,
+      145
+    ],
+    "measured_angle": 165.9
+  },
+  {
+    "timestamp": "2026-08-27T16:12:56.762857",
+    "exercise": "elbow_flexion",
+    "stage": 3,
+    "feedback": "Adjust your elbow angle to bring it closer to the target range.",
+    "verdict": 0,
+    "score": 63.8,
+    "target_range": [
+      101,
+      145
+    ],
+    "measured_angle": 167.6
+  },
+  {
+    "timestamp": "2026-08-27T16:12:57.287301",
+    "exercise": "elbow_flexion",
+    "stage": 3,
+    "feedback": "Adjust your elbow angle to bring it closer to the target range.",
+    "verdict": 0,
+    "score": 55.2,
+    "target_range": [
+      101,
+      145
+    ],
+    "measured_angle": 178.1
+  },
+  {
+    "timestamp": "2026-08-27T16:12:57.805412",
+    "exercise": "elbow_flexion",
+    "stage": 3,
+    "feedback": "Adjust your elbow angle to bring it closer to the target range.",
+    "verdict": 0,
+    "score": 63.9,
+    "target_range": [
+      101,
+      145
+    ],
+    "measured_angle": 167.4
+  },
+  {
+    "timestamp": "2026-08-27T16:12:58.356008",
+    "exercise": "elbow_flexion",
+    "stage": 3,
+    "feedback": "Adjust your elbow angle to bring it closer to the target range.",
+    "verdict": 0,
+    "score": 56.9,
+    "target_range": [
+      101,
+      145
+    ],
+    "measured_angle": 176.1
+  },
+  {
+    "timestamp": "2026-08-27T16:12:58.875801",
+    "exercise": "elbow_flexion",
+    "stage": 3,
+    "feedback": "Adjust your elbow angle to bring it closer to the target range.",
+    "verdict": 0,
+    "score": 64.9,
+    "target_range": [
+      101,
+      145
+    ],
+    "measured_angle": 166.1
+  },
+  {
+    "timestamp": "2026-08-27T16:12:59.391945",
+    "exercise": "elbow_flexion",
+    "stage": 3,
+    "feedback": "Adjust your elbow angle to bring it closer to the target range.",
+    "verdict": 0,
+    "score": 64.9,
+    "target_range": [
+      101,
+      145
+    ],
+    "measured_angle": 166.2
+  },
+  {
+    "timestamp": "2026-08-27T16:12:59.893912",
+    "exercise": "elbow_flexion",
+    "stage": 3,
+    "feedback": "Adjust your elbow angle to bring it closer to the target range.",
+    "verdict": 0,
+    "score": 55.3,
+    "target_range": [
+      101,
+      145
+    ],
+    "measured_angle": 68.0
+  },
+  {
+    "timestamp": "2026-08-27T16:13:00.422591",
+    "exercise": "elbow_flexion",
+    "stage": 3,
+    "feedback": "Adjust your elbow angle to bring it closer to the target range.",
+    "verdict": 0,
+    "score": 60.8,
+    "target_range": [
+      101,
+      145
+    ],
+    "measured_angle": 74.7
+  }
+]
